@@ -6,6 +6,7 @@ This program has quite a specific use case, if you have Stormorks (the steam gam
 
 ## There are two versions available:
 -Regular installer (installs the program in Program Files and makes a desktop shortcut)
+
 -Portable (double click to run, ***Caution: creates a config file in the directory where it's placed!***)
 
 ## Running for the first time
